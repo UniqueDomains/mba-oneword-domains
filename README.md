@@ -14,6 +14,8 @@ Daily-updated public extract of available and resale .mba one-word domains from 
 > **Important:** this repository is a **public 9,398-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **5,622,476 domains** on the canonical page below.
 
+**Public extract:** 9,398 rows · **Live catalog:** 5,622,476 domains
+
 **Last updated:** 2026-04-09  
 **Canonical page:** `https://unique.domains/domains/tld/mba`  
 **Best for:** founders, investors, studios
@@ -21,14 +23,25 @@ Daily-updated public extract of available and resale .mba one-word domains from 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/tld/mba?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_open_search"><b>Open live .MBA search</b></a> ·
-  <a href="https://unique.domains/domains/tld/mba?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_create_radar"><b>Create .MBA Radar</b></a> ·
-  <a href="https://unique.domains/domains/tld/mba?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_start_project"><b>Start a naming Project</b></a> ·
-  <a href="./mba.csv"><b>Download CSV</b></a> ·
-  <a href="./mba.json"><b>Download JSON</b></a> ·
-  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_methodology"><b>Methodology</b></a> ·
-  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_api_docs"><b>API docs</b></a>
+  <a href="https://unique.domains/domains/tld/mba?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/tld/mba?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_create_radar"><b>🔔 Create Radar</b></a> ·
+  <a href="https://unique.domains/domains/tld/mba?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_start_project"><b>🚀 Start a Project</b></a> ·
+  <b>⬇️ Download sample</b>: <a href="./mba.csv">CSV</a> / <a href="./mba.json">JSON</a>
 </p>
+
+<p align="center">
+  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_methodology">Methodology</a> ·
+  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_api_docs">API docs</a>
+</p>
+
+---
+
+> This repo is the sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and richer price, demand, and risk context.
+
+**Choose your next step**
+- **Investors:** [Create a Radar from this exact .MBA search](https://unique.domains/domains/tld/mba?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_create_radar)
+- **Founders:** [Start a Project from this exact .MBA search](https://unique.domains/domains/tld/mba?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_start_project)
+- **Researchers / builders:** [Download CSV](./mba.csv) or [Download JSON](./mba.json)
 
 ## 📦 What this repository contains
 
@@ -43,28 +56,18 @@ This repository is the public extract for Unique Domains' .MBA one-word domain c
 - `CHANGELOG.md` — latest snapshot metadata
 - `CITATION.cff` — machine-readable dataset citation metadata
 - `LICENSE` — terms for the public extract
-- `assets/chart-demand-buckets.png` — generated demand-buckets chart
 
-### Use this repo to
+## Why leave GitHub?
 
-- inspect a public sample
-- download CSV or JSON
-- cite the dataset
-- understand the fields and scoring inputs
+| GitHub extract          | Live product                                     |
+| ----------------------- | ------------------------------------------------ |
+| 9,398-row public sample | 5,622,476 live domains                           |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
-### Use the live page to
-
-- keep the exact search context
-- search the full .MBA catalog
-- filter by price, demand, status, spelling risk, and fit
-- save the exact search as a Radar
-- turn the search into a founder Project
-
-## 📊 Snapshot of the live .MBA catalog
-
-![Demand buckets across the live search](./assets/chart-demand-buckets.png)
-
-**Why this chart:** it gives a fast overview of the live search composition using the same preview payload that supplies the README counts.
+If this sample already feels useful, the live product is where the exact search becomes a workflow.
 
 ## 🧭 Quick start
 
@@ -77,28 +80,36 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | purchase_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| silver.mba     | available | $49.98         | —             | 56             | 99     | 6      | namecheap        |
-| easy.mba       | resell    | —              | —             | 128            | 68     | 4      | GoDaddy.com, LLC |
-| fast.mba       | premium   | $82.50         | $82.50        | 82             | 53     | 4      | name.com         |
-| zero.mba       | available | $19.99         | $50.99        | 112            | 53     | 4      | name.com         |
-| space.mba      | resell    | —              | —             | 80             | 61     | 5      | DNSPod, Inc.     |
-| travel.mba     | premium   | $260           | $260          | 115            | 48     | 6      | namecheap        |
-| clear.mba      | available | $19.99         | $50.99        | 90             | 50     | 5      | name.com         |
-| pay.mba        | resell    | —              | —             | 84             | 60     | 3      | Virtualia LLC    |
-| custom.mba     | premium   | $82.50         | $82.50        | 110            | 39     | 6      | name.com         |
-| snap.mba       | available | $19.99         | $50.99        | 90             | 46     | 4      | name.com         |
-| data.mba       | resell    | —              | —             | 70             | 60     | 4      | DNSPod, Inc.     |
-| rank.mba       | premium   | $82.50         | $82.50        | 70             | 35     | 4      | name.com         |
-| review.mba     | available | $49.98         | —             | 94             | 41     | 6      | namecheap        |
-| free.mba       | resell    | —              | —             | 88             | 59     | 4      | Sav.com, LLC - 6 |
-| healthcare.mba | premium   | $42.90         | $42.90        | 80             | 33     | 10     | namecheap        |
-| learning.mba   | available | $19.99         | —             | 80             | 41     | 8      | name.com         |
-| context.mba    | resell    | —              | —             | 108            | 58     | 7      | Porkbun LLC      |
-| expert.mba     | premium   | $19.99         | $50.99        | 104            | 32     | 6      | name.com         |
-| unity.mba      | available | $19.99         | $50.99        | 70             | 41     | 5      | name.com         |
-| smart.mba      | resell    | —              | —             | 74             | 56     | 5      | DNSPod, Inc.     |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| silver.mba     | available | $49.98    | —             | 56             | 99     | 6      | namecheap        |
+| easy.mba       | resell    | —         | —             | 128            | 68     | 4      | GoDaddy.com, LLC |
+| fast.mba       | premium   | $82.50    | $82.50        | 82             | 53     | 4      | name.com         |
+| zero.mba       | available | $19.99    | $50.99        | 112            | 53     | 4      | name.com         |
+| space.mba      | resell    | —         | —             | 80             | 61     | 5      | DNSPod, Inc.     |
+| travel.mba     | premium   | $260      | $260          | 115            | 48     | 6      | namecheap        |
+| clear.mba      | available | $19.99    | $50.99        | 90             | 50     | 5      | name.com         |
+| pay.mba        | resell    | —         | —             | 84             | 60     | 3      | Virtualia LLC    |
+| custom.mba     | premium   | $82.50    | $82.50        | 110            | 39     | 6      | name.com         |
+| snap.mba       | available | $19.99    | $50.99        | 90             | 46     | 4      | name.com         |
+| data.mba       | resell    | —         | —             | 70             | 60     | 4      | DNSPod, Inc.     |
+| rank.mba       | premium   | $82.50    | $82.50        | 70             | 35     | 4      | name.com         |
+| review.mba     | available | $49.98    | —             | 94             | 41     | 6      | namecheap        |
+| free.mba       | resell    | —         | —             | 88             | 59     | 4      | Sav.com, LLC - 6 |
+| healthcare.mba | premium   | $42.90    | $42.90        | 80             | 33     | 10     | namecheap        |
+| learning.mba   | available | $19.99    | —             | 80             | 41     | 8      | name.com         |
+| context.mba    | resell    | —         | —             | 108            | 58     | 7      | Porkbun LLC      |
+| expert.mba     | premium   | $19.99    | $50.99        | 104            | 32     | 6      | name.com         |
+| unity.mba      | available | $19.99    | $50.99        | 70             | 41     | 5      | name.com         |
+| smart.mba      | resell    | —         | —             | 74             | 56     | 5      | DNSPod, Inc.     |
+
+These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
+
+## 🚀 Next move
+
+You are seeing the public sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+
+[Create Radar](https://unique.domains/domains/tld/mba?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/mba?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -150,6 +161,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 - [Live .MBA page](https://unique.domains/domains/tld/mba?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=related_pricing)
+- [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_mba_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
 
 ## 📬 Contact
