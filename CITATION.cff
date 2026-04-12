@@ -4,9 +4,9 @@ title: "Available .MBA One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-09"
-date-released: "2026-04-09"
+version: "2026-04-12"
+date-released: "2026-04-12"
 url: "https://unique.domains/domains/tld/mba"
 repository-code: "https://github.com/UniqueDomains/mba-oneword-domains"
 license: "See LICENSE"
-abstract: "Daily-updated public extract of available and resale .mba one-word domains from Unique Domains."
+abstract: "Daily-updated dataset of available and resale .mba one-word domains from Unique Domains."
