@@ -66,7 +66,7 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | silver.mba     | available | $49.98    | —             | 56             | 99     | 6      | namecheap        |
 | easy.mba       | resell    | —         | —             | 128            | 68     | 4      | GoDaddy.com, LLC |
-| fast.mba       | premium   | $82.50    | $82.50        | 82             | 53     | 4      | name.com         |
+| fast.mba       | premium   | $82.50    | $82.50        | 82             | 52     | 4      | name.com         |
 | zero.mba       | available | $19.99    | $50.99        | 112            | 53     | 4      | name.com         |
 | space.mba      | resell    | —         | —             | 80             | 61     | 5      | DNSPod, Inc.     |
 | travel.mba     | premium   | $260      | $260          | 115            | 48     | 6      | namecheap        |
@@ -76,13 +76,13 @@ print(df.head())
 | snap.mba       | available | $19.99    | $50.99        | 90             | 46     | 4      | name.com         |
 | context.mba    | resell    | —         | —             | 108            | 59     | 7      | Porkbun LLC      |
 | rank.mba       | premium   | $82.50    | $82.50        | 70             | 35     | 4      | name.com         |
-| craft.mba      | available | $19.99    | $50.99        | 70             | 41     | 5      | name.com         |
-| free.mba       | resell    | —         | —             | 88             | 59     | 4      | Sav.com, LLC - 6 |
+| craft.mba      | available | $19.99    | $50.99        | 70             | 42     | 5      | name.com         |
+| free.mba       | resell    | —         | —             | 88             | 57     | 4      | Sav.com, LLC - 6 |
 | healthcare.mba | premium   | $42.90    | $42.90        | 80             | 31     | 10     | namecheap        |
-| care.mba       | available | $19.99    | $50.99        | 80             | 40     | 4      | name.com         |
+| direct.mba     | available | $19.99    | $50.99        | 104            | 40     | 6      | name.com         |
 | smart.mba      | resell    | —         | —             | 74             | 56     | 5      | DNSPod, Inc.     |
 | expert.mba     | premium   | $19.99    | $50.99        | 104            | 30     | 6      | name.com         |
-| unity.mba      | available | $19.99    | $50.99        | 70             | 40     | 5      | name.com         |
+| care.mba       | available | $19.99    | $50.99        | 80             | 40     | 4      | name.com         |
 | data.mba       | resell    | —         | —             | 70             | 56     | 4      | DNSPod, Inc.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
