@@ -73,10 +73,10 @@ print(df.head())
 | spectra.mba      | available | $19.99    | —             | 62             | 34     | 7      | name.com                                            |
 | trends.mba       | available | $19.99    | —             | 60             | 32     | 6      | name.com                                            |
 | William.mba      | available | $49.98    | —             | 74             | 31     | 7      | namecheap                                           |
-| inspiration.mba  | available | $19.99    | —             | 88             | 30     | 11     | name.com                                            |
 | spaces.mba       | available | $19.99    | —             | 54             | 30     | 6      | name.com                                            |
 | videos.mba       | available | $19.99    | —             | 52             | 30     | 6      | name.com                                            |
 | commonground.mba | available | $19.99    | —             | 74             | 28     | 13     | name.com                                            |
+| inspiration.mba  | available | $19.99    | —             | 88             | 27     | 11     | name.com                                            |
 | has.mba          | available | $19.99    | —             | 60             | 26     | 3      | name.com                                            |
 | Keith.mba        | available | $49.98    | —             | 66             | 25     | 5      | namecheap                                           |
 | chem.mba         | available | $19.99    | —             | 74             | 24     | 4      | name.com                                            |
