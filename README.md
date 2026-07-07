@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .mba one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,351 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,351 domains · **Median ask:** $22.40 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,351 domains · **Median ask:** $21.00 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/mba`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/mba`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MBA one-word domain c
 
 ### Files
 
-- `mba.csv` — public CSV extract (1,000 rows)
-- `mba.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `mba.csv`, public CSV extract (1,000 rows)
+- `mba.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| agents.mba       | available | $19.99    | —             | 56             | 50     | 6      | name.com                                            |
-| coins.mba        | resell    | —         | —             | 56             | 41     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| schools.mba      | premium   | $250      | —             | 72             | 24     | 7      | name.com                                            |
-| matcha.mba       | available | $19.99    | —             | 86             | 39     | 6      | name.com                                            |
-| prompts.mba      | available | $19.99    | —             | 54             | 39     | 7      | name.com                                            |
-| aliens.mba       | available | $19.99    | —             | 56             | 35     | 6      | name.com                                            |
-| spectra.mba      | available | $19.99    | —             | 62             | 34     | 7      | name.com                                            |
-| trends.mba       | available | $19.99    | —             | 60             | 32     | 6      | name.com                                            |
-| William.mba      | available | $49.98    | —             | 74             | 31     | 7      | namecheap                                           |
-| spaces.mba       | available | $19.99    | —             | 54             | 30     | 6      | name.com                                            |
-| videos.mba       | available | $19.99    | —             | 52             | 30     | 6      | name.com                                            |
-| commonground.mba | available | $19.99    | —             | 74             | 28     | 13     | name.com                                            |
-| inspiration.mba  | available | $19.99    | —             | 88             | 27     | 11     | name.com                                            |
-| has.mba          | available | $19.99    | —             | 60             | 26     | 3      | name.com                                            |
-| Keith.mba        | available | $49.98    | —             | 66             | 25     | 5      | namecheap                                           |
-| chem.mba         | available | $19.99    | —             | 74             | 24     | 4      | name.com                                            |
-| shops.mba        | available | $19.99    | —             | 64             | 24     | 5      | name.com                                            |
-| loans.mba        | available | $19.99    | —             | 58             | 24     | 5      | name.com                                            |
-| holidays.mba     | available | $19.99    | —             | 78             | 23     | 8      | name.com                                            |
-| investors.mba    | available | $19.99    | —             | 60             | 23     | 9      | name.com                                            |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| christmas.mba | available | $19.99    | —             | high           | low    | 9      | name.com                                            |
+| room.mba      | available | $19.99    | —             | high           | low    | 4      | name.com                                            |
+| ala.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                            |
+| car.mba       | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| rank.mba      | premium   | $82.50    | $82.50        | high           | low    | 4      | name.com                                            |
+| Ann.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                            |
+| game.mba      | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                        |
+| cheap.mba     | premium   | $242      | $242          | high           | low    | 5      | namesilo                                            |
+| bag.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                            |
+| plus.mba      | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| financial.mba | premium   | $42.90    | $42.90        | medium         | low    | 9      | namecheap                                           |
+| boo.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                            |
+| wave.mba      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                        |
+| fee.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                            |
+| speed.mba     | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| few.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                            |
+| start.mba     | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc.                                     |
+| Fla.mba       | available | $19.99    | —             | medium         | low    | 3      | name.com                                            |
+| lawyer.mba    | resell    | —         | —             | medium         | low    | 6      | NameCheap, Inc.                                     |
+| him.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .mba extension. The set includes broad dictionary words such as vector.mba, intelligent.mba, clash.mba, and veer.mba, alongside more specific terms like albanian.mba and dishonour.mba. For founders, the main question is whether the word and extension combine into a clear, credible brand. For investors, the key test is whether the name has enough commercial relevance to offset the narrower buyer pool of .mba. With a median ask of 22.4, price may be accessible, but extension fit matters more here than in mainstream TLDs.
+This set of .mba domain names covers 12,351 one-word listings built from everyday phrases like bonappetit.mba, herbbutter.mba, getmarried.mba, and cuddleup.mba. With a median asking price near $21, these domains sit well below typical .com pricing, giving founders a low-cost path to an ownable, memorable name and giving investors a wide, underexplored pool of TLD inventory. Because .mba is used here as a creative word-ending rather than a business-school signal, the naming style leans playful and consumer-facing across food, lifestyle, celebration, and lifestyle-phrase themes.
 
-- Prioritize words that fit education, consulting, or business themes
-- Check if the word stays credible when paired with .mba
-- Use low ask pricing to narrow a shortlist faster
-- Avoid terms with weak relevance or obvious trademark risk
+- 12,351 one-word .mba domains, updated daily
+- Median asking price near $21 across this list
+- Phrase-style names like getmarried.mba, cuddleup.mba
+- Low-cost entry into an underused TLD category
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MBA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MBA One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
