@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mba one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,219 domains · **Median ask:** $15.58 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/mba`
 **Best for:** founders, investors, studios
 
@@ -64,13 +64,17 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| christmas.mba | available | $19.99    | —             | high           | low    | 9      | name.com                                                |
+| period.mba    | available | $19.99    | —             | high           | low    | 6      | name.com                                                |
+| away.mba      | available | $19.99    | —             | high           | low    | 4      | name.com                                                |
+| pure.mba      | available | $19.99    | —             | high           | medium | 4      | name.com                                                |
 | aft.mba       | available | $11.98    | $49.98        | low            | low    | 3      | namecheap                                               |
 | car.mba       | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | rank.mba      | premium   | $82.50    | $82.50        | high           | low    | 4      | name.com                                                |
 | ala.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                                |
 | ccc.mba       | resell    | —         | —             | low            | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | cheap.mba     | premium   | $242      | $242          | high           | low    | 5      | namesilo                                                |
-| Ann.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                                |
+| ann.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                                |
 | game.mba      | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                            |
 | financial.mba | premium   | $78.54    | $78.54        | medium         | low    | 9      | namesilo                                                |
 | bag.mba       | available | $11.98    | $49.98        | medium         | low    | 3      | namecheap                                               |
@@ -80,10 +84,6 @@ print(df.head())
 | fee.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                                |
 | speed.mba     | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd            |
 | few.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                                |
-| start.mba     | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc.                                         |
-| Fla.mba       | available | $19.99    | —             | medium         | low    | 3      | name.com                                                |
-| lawyer.mba    | resell    | —         | —             | medium         | low    | 6      | NameCheap, Inc.                                         |
-| him.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MBA One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MBA One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
