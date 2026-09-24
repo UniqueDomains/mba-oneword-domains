@@ -33,7 +33,7 @@ c4f613c0-cf0e-46d6-855a-2b0a10c52ccc,master.mba,resell,,,high,low,6,"Chengdu Wes
 d751ad9c-cef8-4a36-9db4-67db0ef9551c,foodcoma.mba,available,19.99,,medium,low,9,name.com,,,
 09978522-df22-4d1a-b7fc-41a7afe905df,discussion.mba,available,19.99,,high,low,10,name.com,,,
 7fae034f-9923-4c1c-81db-6d905bc7ba96,allargando.mba,available,11.98,49.98,low,low,10,namecheap,,,
-c8dbff58-ea29-480f-83f8-e6c7da40ddd9,bush.mba,available,19.99,,medium,low,4,name.com,,,
+c8dbff58-ea29-480f-83f8-e6c7da40ddd9,bush.mba,available,17.99,39.99,low,low,4,namesilo,,,23/09/2026 11:53
 708199d5-f805-4540-b0b3-160bde26585e,swiftly.mba,available,19.99,,medium,low,7,name.com,,,
 00644f1c-565b-4c6b-a438-ff6f9f20b30f,casket.mba,available,19.99,,high,low,6,name.com,,,
 5a97e484-49fd-4ce6-b950-8b81c3a9fbd4,rootbeer.mba,available,19.99,,medium,low,9,name.com,,,
@@ -78,11 +78,11 @@ acb3133c-9432-43cb-90f8-f8474214d97f,mixed.mba,available,17.99,39.99,low,low,5,n
 3d6c36e7-b15c-453f-aaf1-87b4d4a222c9,stigmatic.mba,available,11.98,49.98,low,low,9,namecheap,,,
 ba2d5ba2-7372-4f14-bdc3-2eee2b019c0b,mousearound.mba,available,19.99,,low,low,12,name.com,,,
 8a83b254-a349-403d-8864-8e81b9e64bbd,charles.mba,available,19.99,,high,low,7,name.com,,,
-b44cbef5-3801-4329-98fc-7c64674295dc,burning.mba,available,19.99,,high,low,7,name.com,,,
+b44cbef5-3801-4329-98fc-7c64674295dc,burning.mba,available,11.98,49.98,low,low,7,namecheap,,,23/09/2026 11:45
 916fc6aa-8a5b-4129-8df9-b13655ff10dd,doit.mba,available,19.99,,high,low,5,name.com,,,
 f14819d5-854f-4813-89f9-8377011cd712,amoebous.mba,available,11.98,49.98,low,low,8,namecheap,,,
 754f8f85-353a-420e-8197-a86a5a9bae5d,poorly.mba,available,19.99,,medium,low,6,name.com,,,
-80f1ee02-2e8d-49e8-a166-6e39fd2dea4e,compressed.mba,available,19.99,50.99,medium,low,10,name.com,,,
+80f1ee02-2e8d-49e8-a166-6e39fd2dea4e,compressed.mba,available,11.98,49.98,low,low,10,namecheap,,,23/09/2026 18:05
 eed9a7b3-5275-458b-ae70-1988d21acd9b,alacarte.mba,available,11.98,49.98,low,low,10,namecheap,,,
 a1c9f2ae-3ea5-42a1-bb44-df2e10065f6b,barrelled.mba,available,11.98,49.98,low,low,9,namecheap,,,08/08/2026 20:51
 b07aad02-facc-4a74-a8a4-60923944215d,corruption.mba,available,19.99,,medium,low,10,name.com,,,
@@ -108,7 +108,7 @@ bd5713ec-c1c5-4fe7-b63e-f327091edbd9,delight.mba,available,19.99,,high,low,7,nam
 45ff4520-f2c3-4741-a875-0f2417be8f2f,whitesnow.mba,available,19.99,,medium,low,10,name.com,,,
 ce75e4c3-fc7a-49d1-aeec-d1aa8083c150,dendroid.mba,available,11.98,49.98,low,low,8,namecheap,,,06/08/2026 13:50
 6a8045c8-7601-437e-a8d3-cc02df18d4ef,adnexal.mba,available,11.98,49.98,low,low,7,namecheap,,,
-78a1e8af-74c3-4d28-aa9d-6d15c8e45b2f,coral.mba,available,19.99,50.99,medium,low,5,name.com,,,
+78a1e8af-74c3-4d28-aa9d-6d15c8e45b2f,coral.mba,available,17.99,39.99,low,low,5,namesilo,,,23/09/2026 23:19
 a779b380-44ab-4530-ab09-65acbbf09308,prudent.mba,available,19.99,,high,low,7,name.com,,,
 ae9781d3-2586-47b4-ab8a-329a9b80a85e,fortified.mba,available,11.98,49.98,low,low,9,namecheap,,,09/08/2026 00:17
 71bac29a-954e-41ca-88da-c155dc6813b5,groves.mba,available,19.99,,medium,low,6,name.com,,,
@@ -126,7 +126,7 @@ f863bc58-bf97-449b-84c5-d0e480e71cf6,acervate.mba,available,11.98,49.98,low,low,
 99853f2f-24ea-4e79-84c9-974b12d3bcd3,alimentary.mba,available,11.98,49.98,low,low,10,namecheap,,,
 d188a8bb-b9c3-4278-bec5-0b130345ea90,type.mba,available,19.99,,high,low,4,name.com,,,
 d1d67b69-c210-45a8-a179-d4e150cbc3af,anoxic.mba,available,11.98,49.98,low,low,6,namecheap,,,
-f6ea945d-c6b2-476a-a5c2-1447203f9835,succinct.mba,available,19.99,50.99,medium,low,8,name.com,,,
+f6ea945d-c6b2-476a-a5c2-1447203f9835,succinct.mba,available,17.99,39.99,medium,low,8,namesilo,,,23/09/2026 17:07
 19b15845-810b-4e72-b6c2-2ad84e5aeffe,closetogether.mba,available,19.99,,medium,low,14,name.com,,,
 4b322101-3b1d-4142-90ea-13feee96a65e,silent.mba,available,19.99,,high,low,6,name.com,,,
 4f36a882-d9b3-4258-b02f-3ae4a4150e19,fiftysix.mba,available,11.98,49.98,low,low,9,namecheap,,,
@@ -233,12 +233,12 @@ e8eda464-aaf2-42ca-bfd9-a3616f7e3f1b,northandsouth.mba,available,19.99,,medium,l
 0796d5df-9b45-4b13-a40d-8a6e18f94507,lii.mba,available,11.98,49.98,low,low,3,namecheap,,,
 674d8beb-e5df-45a4-8a39-6f2f7e30c4b2,domestic.mba,available,17.99,39.99,medium,low,8,namesilo,,,19/09/2026 12:54
 fc51c169-7dac-470e-90f5-2a022dd6f955,explorer.mba,available,19.99,,high,low,8,name.com,,,
-194fc28f-50a6-44cf-bde3-2a64645d98f8,thermal.mba,available,19.99,,medium,low,7,name.com,,,
+194fc28f-50a6-44cf-bde3-2a64645d98f8,thermal.mba,available,17.99,39.99,low,low,7,namesilo,,,23/09/2026 12:37
 6ad92900-75da-4cfc-940e-0ea62d60d283,absent.mba,available,17.99,39.99,low,low,6,namesilo,,,21/09/2026 14:37
 aca9122a-fb2b-4eba-8e87-43b115728015,barring.mba,available,19.99,,medium,low,7,name.com,,,
 55e9b960-1a6c-4c3b-9248-8631e216d708,crowd.mba,available,19.99,,high,low,5,name.com,,,
 54a43f57-7e83-43ba-b49b-5bfb835311ca,unused.mba,available,19.99,,medium,low,6,name.com,,,
-57d03bce-93a0-4454-96dd-6b82e94add30,proof.mba,available,17.99,39.99,medium,low,5,namesilo,,,19/09/2026 13:10
+57d03bce-93a0-4454-96dd-6b82e94add30,proof.mba,available,17.99,39.99,medium,low,5,namesilo,,,23/09/2026 16:02
 15230d6d-53db-4fd4-bdf4-107db93c56cf,joke.mba,available,17.99,39.99,medium,low,4,namesilo,,,22/09/2026 06:20
 17c83bb3-0e15-48e0-a38b-6e1e1f1ed89e,exciting.mba,available,19.99,,high,low,8,name.com,,,
 2c5a47a1-2040-445c-8676-b5255d569335,boattrip.mba,available,19.99,,high,low,9,name.com,,,
@@ -252,7 +252,7 @@ c455819a-8ab2-4fb3-a889-13a2bde22018,house.mba,available,19.99,,high,medium,5,na
 2f784f8e-30cd-4bf8-a7ae-adbad41f2182,godutch.mba,available,19.99,,medium,low,8,name.com,,,
 998b6901-002c-4469-979a-d8fb5c55ea5b,dishwasher.mba,available,19.99,,high,low,10,name.com,,,
 526a17fa-3112-4834-a141-9cc83986014a,bull.mba,available,19.99,,medium,low,4,name.com,,,
-8c2fd083-fa7d-4b46-a5c0-f520e2ad6336,markets.mba,available,17.99,39.99,low,low,7,namesilo,,,19/09/2026 05:44
+8c2fd083-fa7d-4b46-a5c0-f520e2ad6336,markets.mba,available,17.99,39.99,low,low,7,namesilo,,,23/09/2026 06:42
 de616bae-8a1c-4332-a04e-7585785e1263,nassau.mba,available,19.99,,high,low,6,name.com,,,
 87ba25a2-71bc-4261-baa9-8f73b9a08384,sixteenth.mba,available,11.98,49.98,low,low,9,namecheap,,,
 5c72578f-7547-4b75-8fc8-2692ad069f35,guys.mba,available,19.99,,medium,low,4,name.com,,,
@@ -280,7 +280,7 @@ b1e7c1fb-7b89-4b93-9288-cf4d4525f81f,teetotalism.mba,available,19.99,,low,low,11
 dd931bfa-dc72-4f96-ae28-083c0f8c05bb,suntea.mba,available,19.99,,high,low,7,name.com,,,
 abe7aad7-805d-49d7-9c17-a80c623c2cf4,havetherighttime.mba,available,19.99,,medium,low,19,name.com,,,
 2ca01ee8-c12e-497d-947d-e85ebbf84e02,dirt.mba,available,19.99,50.99,medium,low,4,name.com,,,
-9185bd9e-7d5e-48cb-8b22-18b83064c177,summary.mba,available,19.99,50.99,high,low,7,name.com,,,
+9185bd9e-7d5e-48cb-8b22-18b83064c177,summary.mba,available,11.98,49.98,low,low,7,namecheap,,,23/09/2026 17:08
 ba66c9bd-af14-4c50-b004-116c28b28008,genesis.mba,available,19.99,,medium,low,7,name.com,,,
 6a883338-5719-4a3a-9d4f-3d2a46618769,leave.mba,available,19.99,,high,low,5,name.com,,,
 f75bb04f-8bd0-46b4-8b84-70018fe4905b,manyatime.mba,available,19.99,,medium,low,11,name.com,,,
@@ -300,7 +300,7 @@ e26ce523-b13e-430e-a94d-94059da31a14,pointofview.mba,available,19.99,,low,low,13
 a11d7175-f4a8-4ebf-9943-d7b512df2a33,repugnant.mba,available,11.98,49.98,low,low,9,namecheap,,,
 f3512d95-5c1b-4b3b-9367-b1043165eba7,analogy.mba,available,19.99,,high,low,7,name.com,,,
 ed8cb14d-2061-4c46-a00b-8902928452ae,adiabatic.mba,available,11.98,49.98,low,low,9,namecheap,,,
-6ac4aba3-9c5f-4e0e-b6bd-b2fcf2a02b15,biggame.mba,available,19.99,,high,low,8,name.com,,,
+6ac4aba3-9c5f-4e0e-b6bd-b2fcf2a02b15,biggame.mba,available,17.99,39.99,low,low,8,namesilo,,,23/09/2026 14:31
 0fcd5f95-6f47-4a0f-b720-5ca3f021e32b,touchdown.mba,available,19.99,,medium,low,10,name.com,,,
 6e296226-eb25-44c3-88ca-58d1c5bc6ec4,sixtieth.mba,available,11.98,49.98,low,low,8,namecheap,,,
 65cf91ae-8fcf-42c2-ab52-e0ba3bdfaddb,lxiv.mba,available,11.98,49.98,low,low,4,namecheap,,,
@@ -319,7 +319,7 @@ eec982f2-d890-4a4a-8380-79f72b57d124,violetgold.mba,available,19.99,,low,low,11,
 0409eb4c-1152-48d2-8268-7b3ae47538f2,brag.mba,available,17.99,39.99,medium,low,4,namesilo,,,23/09/2026 00:49
 71821d38-d751-4bc8-be7c-8feb76df18a3,atthispoint.mba,available,19.99,,medium,low,13,name.com,,,
 f600f980-2b46-4616-b414-9e7a6cfa27ff,force.mba,available,19.99,,high,low,5,name.com,,,
-02398b4a-112a-4b53-a96d-4122bb5af3d4,cooldown.mba,available,19.99,50.99,high,low,9,name.com,,,
+02398b4a-112a-4b53-a96d-4122bb5af3d4,cooldown.mba,available,17.99,39.99,medium,low,9,namesilo,,,23/09/2026 23:06
 d535f956-7cee-4362-857e-3a0167d2c2b8,gobad.mba,available,19.99,,high,low,6,name.com,,,
 e17aff33-f39e-411e-98ee-6c6f2515e9b0,brass.mba,available,19.99,,high,low,5,name.com,,,
 02510f74-6ea2-44b1-abf0-9fa434ef6250,irrelevant.mba,available,19.99,,medium,low,10,name.com,,,
@@ -329,7 +329,7 @@ f5868ccc-d7c6-418b-930a-395fa39d05f9,annually.mba,available,19.99,,medium,low,8,
 7de2f001-d37c-4fb2-ad19-71f424bcf384,awed.mba,available,11.98,49.98,low,low,4,namecheap,,,08/08/2026 00:44
 093b1cb2-c589-42de-8fc0-3f51d72c320a,interact.mba,available,19.99,,high,low,8,name.com,,,
 b4ff735f-6512-454f-8632-e0e51ed25741,whichiswhich.mba,available,19.99,,low,low,14,name.com,,,
-85cc1cc6-3698-4264-a916-9f432e1f9ace,favorite.mba,available,19.99,50.99,medium,low,8,name.com,,,
+85cc1cc6-3698-4264-a916-9f432e1f9ace,favorite.mba,available,17.99,39.99,medium,low,8,namesilo,,,24/09/2026 04:33
 91f0235e-8c60-4998-8f10-569a5719d099,front.mba,available,19.99,,high,low,5,name.com,,,
 2c86de5e-d7c7-439d-81ff-c03bb1496907,earmark.mba,available,11.98,49.98,low,low,7,namecheap,,,06/08/2026 09:08
 d2c8c2e6-9689-40c9-92ef-c75adedc0fad,ameboid.mba,available,11.98,49.98,low,low,7,namecheap,,,
@@ -370,7 +370,7 @@ efea688b-b5f3-44a9-8d05-606bde84c05b,nutritious.mba,available,17.99,39.99,medium
 d7815f61-5ff4-482e-8cf9-cda42b95477b,keepitreal.mba,available,19.99,,high,low,12,name.com,,,
 836a0547-a88f-450d-9315-ea09f647eb3c,discord.mba,available,19.99,,high,medium,7,name.com,,,
 398f2758-ce91-49d3-bc1b-41ce36001848,stability.mba,available,19.99,,high,low,9,name.com,,,
-0a570467-6c62-46e0-84d4-a841a40c85ed,countless.mba,available,19.99,50.99,high,low,9,name.com,,,
+0a570467-6c62-46e0-84d4-a841a40c85ed,countless.mba,available,17.99,39.99,medium,low,9,namesilo,,,24/09/2026 00:28
 29852f03-6377-4368-b90c-e516a14798ed,sushi.mba,available,19.99,,high,low,5,name.com,,,
 bed399f8-fcf7-4ef5-9fd3-4fd0aa3f143b,contest.mba,available,19.99,,high,low,7,name.com,,,
 a0974a5d-bdc1-4aa5-9970-9c85709008f9,threesome.mba,available,11.98,49.98,low,low,9,namecheap,,,
@@ -486,7 +486,7 @@ f55ce017-ec53-4f7a-8736-31b790236a0f,mask.mba,available,19.99,,high,low,4,name.c
 8020e0c9-f93f-48b9-a2e0-efbc32e6f88f,start.mba,resell,,,high,medium,5,"NameCheap, Inc.",01/10/2021 17:00,01/10/2026 17:00,
 106b17b0-1b11-4a2b-a857-c94a2dd0f635,unbearable.mba,available,19.99,,medium,low,10,name.com,,,
 6a767869-a457-49e8-875a-e673fbe8963e,place.mba,available,19.99,,high,low,5,name.com,,,
-e2204967-0ef3-4b75-a70a-927ee1699d9a,financial.mba,premium,78.54,78.54,medium,low,9,namesilo,,,19/09/2026 09:32
+e2204967-0ef3-4b75-a70a-927ee1699d9a,financial.mba,premium,78.54,78.54,medium,low,9,namesilo,,,23/09/2026 07:40
 0fbfeb74-6e03-4c4d-aafa-10a4582135ec,former.mba,available,19.99,,high,low,6,name.com,,,
 0432e864-335f-429b-b56a-7e48bf3c8119,generalsurgery.mba,available,19.99,,high,low,15,name.com,,,
 1526b8ad-b5c7-4ab2-b9c7-6d1d15e17559,panasonic.mba,available,,,high,low,9,,,,
@@ -506,7 +506,7 @@ f50996bd-08fb-4174-b28f-a6bafc2e0698,interpret.mba,available,19.99,,high,low,9,n
 2972b6e2-2848-4e46-8242-cfa73d43befc,thisisit.mba,available,19.99,,low,low,10,name.com,,,
 0f44b1e5-7ba9-4f9e-a0aa-2c4fdf2f808b,trousers.mba,available,19.99,,medium,low,8,name.com,,,
 ab51374a-5ca7-454d-8ccb-c38d639da76f,shrek.mba,available,,,high,medium,5,,,,
-57380d55-70c9-4fc6-bb39-3e36289511e4,cheap.mba,premium,242,242,high,low,5,namesilo,,,
+57380d55-70c9-4fc6-bb39-3e36289511e4,cheap.mba,premium,242,242,low,low,5,namesilo,,,23/09/2026 11:03
 6e615a9a-032d-4d4d-afb1-b7b01538ec63,wrongcrowd.mba,available,19.99,,medium,low,11,name.com,,,
 7086b2d1-2936-45bb-84a6-8c6627b278e3,verbal.mba,available,19.99,,high,low,6,name.com,,,
 93c339fc-d3d6-443e-9005-6b74f65e9423,burden.mba,available,19.99,,medium,low,6,name.com,,,
@@ -622,7 +622,7 @@ a263d5c1-1189-4040-b942-3d90ed421685,clue.mba,available,19.99,,high,low,4,name.c
 9559a734-7e28-4032-a376-878d23f69d82,southafrica.mba,available,,,low,low,12,,,,
 319af9a6-72fd-468f-aec9-7d960cc21bd6,disc.mba,available,19.99,,high,low,4,name.com,,,
 66c7b2ee-d879-4e1f-84ee-e5aa3a69f084,liquor.mba,available,19.99,,high,low,6,name.com,,,
-0ba4445d-c6d0-4bb3-b32d-29f3cc159cb3,raised.mba,available,19.99,,high,low,6,name.com,,,
+0ba4445d-c6d0-4bb3-b32d-29f3cc159cb3,raised.mba,available,17.99,39.99,medium,low,6,namesilo,,,23/09/2026 09:46
 4cd7fbf0-6872-47cf-99d9-e178ceb0c84f,bewell.mba,available,19.99,,high,low,7,name.com,,,
 1e8ce425-ea8d-44e2-8b72-90c23ba3c631,couple.mba,available,19.99,,high,low,6,name.com,,,
 69b0e2cb-3128-4915-9662-bdd64a4fd845,teasing.mba,available,11.98,49.98,low,low,7,namecheap,,,22/09/2026 05:24
@@ -655,7 +655,7 @@ a95f54e4-cedb-4518-a181-6cd1837c56a1,lowpriced.mba,available,11.98,49.98,low,low
 ccc9d369-8234-4ddf-b1c0-846740e98d77,inshortpants.mba,available,19.99,,medium,low,14,name.com,,,
 368c59eb-481f-46eb-93ef-b63b2255b7e1,walk.mba,available,19.99,,high,low,4,name.com,,,
 58172be3-0e01-4070-a571-024d2023a062,fruity.mba,available,11.98,49.98,medium,low,6,namecheap,,,06/08/2026 21:00
-1507c6de-2ad0-4663-996d-b7fc322442ea,large.mba,available,11.98,49.98,medium,low,5,namecheap,,,19/09/2026 10:18
+1507c6de-2ad0-4663-996d-b7fc322442ea,large.mba,available,11.98,49.98,medium,low,5,namecheap,,,23/09/2026 09:13
 e6d6f95f-1a3a-4477-a62c-e3e5bcfeb17d,aquaphobic.mba,available,11.98,49.98,low,low,10,namecheap,,,06/08/2026 10:40
 ad72e094-87ad-45f8-970f-2543b7bc8d29,calf.mba,available,19.99,,high,low,4,name.com,,,
 56d2761c-1258-4408-9ee8-68a2625b74b6,creature.mba,available,17.99,39.99,low,low,8,namesilo,,,22/09/2026 04:42
@@ -694,7 +694,7 @@ dc118c48-b7b4-4266-9bb3-75eabbe32035,xxii.mba,available,17.99,39.99,low,low,4,na
 18854ea8-e851-4465-8d9f-7e50646edcee,court.mba,available,19.99,,medium,low,5,name.com,,,
 34f3691c-0338-4b59-8b1c-6aaf247ba03c,thankful.mba,available,19.99,,high,low,8,name.com,,,
 600f0aeb-0e0f-43b2-b0e5-d62302ad2127,subjective.mba,available,19.99,,medium,low,10,name.com,,,
-97252458-2d58-4f63-96e9-a872bbc27206,resume.mba,resell,,,high,low,6,"Spaceship, Inc.",11/02/2025 02:09,11/02/2027 02:09,
+97252458-2d58-4f63-96e9-a872bbc27206,resume.mba,resell,,,medium,low,6,"Spaceship, Inc.",11/02/2025 02:09,11/02/2027 02:09,24/09/2026 04:16
 5d4cc632-f785-48c9-8525-d19725126beb,always.mba,available,19.99,,high,low,6,name.com,,,
 0fbaa8a0-f550-4066-b3ed-ec4885086c5d,paunchy.mba,available,11.98,49.98,low,low,7,namecheap,,,
 e615a484-8f83-4fb4-94fd-142dc405bf6a,ended.mba,available,11.98,49.98,low,low,5,namecheap,,,
@@ -738,7 +738,7 @@ c8f4640c-43cc-4cfe-ad83-4d369329609c,adrenalinerush.mba,available,19.99,,high,lo
 fd8f177f-5768-4e57-899d-d648e6ee14b3,avocado.mba,available,17.99,39.99,medium,low,7,namesilo,,,22/09/2026 14:34
 0a649fae-8fe2-41e2-a332-eb80be5738de,papal.mba,available,11.98,49.98,low,low,5,namecheap,,,06/08/2026 04:09
 cad61f20-4b91-4998-99f6-6585f4dab137,carrie.mba,available,19.99,,high,low,6,name.com,,,
-3305f59d-74ac-4c7d-aa9c-5cdff09a41a6,individual.mba,available,19.99,,high,low,10,name.com,,,
+3305f59d-74ac-4c7d-aa9c-5cdff09a41a6,individual.mba,available,17.99,39.99,medium,low,10,namesilo,,,23/09/2026 13:06
 0abb9f9c-785a-4e48-84d5-23ee09925ab1,termination.mba,available,11.98,49.98,low,low,11,namecheap,,,04/09/2026 07:49
 578699f3-879b-41e1-a227-bd3175216c24,comeby.mba,available,19.99,,high,low,7,name.com,,,
 d6152e52-d6b8-445a-be1a-83d0d776caa1,spell.mba,available,19.99,,high,low,5,name.com,,,
@@ -772,7 +772,7 @@ fd5fe6ab-f6ef-40f8-a0e3-417c2087cf52,accident.mba,available,19.99,,low,low,8,nam
 3c5c2234-4371-4577-aaaa-620e81369282,random.mba,available,17.99,39.99,low,low,6,namesilo,,,19/09/2026 11:18
 33ca18a3-79ce-4808-8f5a-3a73219c6fbb,alterable.mba,available,17.99,39.99,low,low,9,namesilo,,,22/09/2026 02:18
 76f612c4-7481-4248-86cc-268f4807ffca,leaveout.mba,available,19.99,,medium,low,9,name.com,,,
-439ae8b6-891a-477e-997b-b6a57faae7b6,colour.mba,available,19.99,,high,low,6,name.com,,,
+439ae8b6-891a-477e-997b-b6a57faae7b6,colour.mba,available,17.99,39.99,medium,low,6,namesilo,,,23/09/2026 15:08
 6b885f9a-114a-4117-85e1-f30157ac6cbd,lxxxii.mba,available,11.98,49.98,low,low,6,namecheap,,,
 8ddcad88-fee9-48f7-9fbb-a85a3153428b,lush.mba,available,,,medium,low,4,,,,
 756b8797-08c4-463a-905c-0a7b3b75caca,pin.mba,available,19.99,,high,low,3,name.com,,,
@@ -797,7 +797,7 @@ fce5e97d-5063-4dbe-ade9-46e8e9abdffb,aspirer.mba,available,11.98,49.98,low,low,7
 86257b3c-29a1-40c7-b2fe-0d45e9862764,amerciable.mba,available,11.98,49.98,low,low,10,namecheap,,,
 e64ddc4f-b82e-46d3-bc4a-bab6a704432a,xoxoxo.mba,available,19.99,,high,low,6,name.com,,,
 384967ce-6864-4b25-9ed0-4479a7410449,interviewee.mba,available,19.99,,medium,low,11,name.com,,,
-34331a5c-ae4d-4f67-bd6b-3b0a0bd41cd9,confident.mba,available,19.99,50.99,high,low,9,name.com,,,
+34331a5c-ae4d-4f67-bd6b-3b0a0bd41cd9,confident.mba,available,11.98,49.98,medium,low,9,namecheap,,,23/09/2026 19:37
 570b26b9-bceb-4fae-9d24-e94e5c188093,bumpinto.mba,available,19.99,,medium,low,9,name.com,,,
 0091e12b-fedb-470d-8e55-f65386c3d30d,canted.mba,available,11.98,49.98,low,low,6,namecheap,,,07/08/2026 13:18
 eff16b28-329d-43a5-8628-5ee7dc15de3a,saveas.mba,available,19.99,,medium,low,7,name.com,,,
@@ -808,7 +808,7 @@ f8dcdf63-3f18-417c-af4c-f471304f0d16,whatabout.mba,available,19.99,,low,low,10,n
 a9ff3cbd-51a5-4554-981d-1b930328448e,congratulations.mba,available,19.99,,high,low,15,name.com,,,
 e4e0f684-8b77-41bb-88d6-bd283ca37d84,luckystreak.mba,available,19.99,,high,low,12,name.com,,,
 23c7b804-0188-4c87-8466-77fb3ec8a1ab,generalquarters.mba,available,19.99,,medium,low,16,name.com,,,
-a67ad8e6-5edd-401b-ae98-f93f8ba954cd,caring.mba,available,19.99,,high,low,6,name.com,,,
+a67ad8e6-5edd-401b-ae98-f93f8ba954cd,caring.mba,available,17.99,39.99,medium,low,6,namesilo,,,23/09/2026 13:03
 10bc74ae-7bee-421e-8324-cf3843c29378,springfor.mba,available,19.99,,low,low,10,name.com,,,
 ecffb2d2-3a89-4c88-8300-42b9759dd142,bonkers.mba,available,11.98,49.98,low,low,7,namecheap,,,06/08/2026 20:40
 da121e80-dae0-4cdc-9330-0e99dd4617e0,givecredit.mba,available,19.99,,high,low,11,name.com,,,
@@ -848,8 +848,8 @@ d426f710-016f-4e6c-9c18-ef37b02f0db0,animated.mba,available,17.99,39.99,medium,l
 e47e4b8d-84e6-48ac-9f71-9ccfde427fad,googler.mba,available,19.99,,high,low,7,name.com,,,
 7568113c-fc4a-4856-9031-34353959ccf3,crap.mba,available,19.99,,medium,low,4,name.com,,,
 3ebf496b-3855-45bc-a77c-00d222c9ab01,visited.mba,available,19.99,,high,low,7,name.com,,,
-d63745d0-7bdd-4b79-abcf-eb2f69be45d5,comedian.mba,available,19.99,,high,low,8,name.com,,,
-7e876232-f889-46a8-9d2a-b2e62e5c2a0a,masterful.mba,available,19.99,50.99,high,low,9,name.com,,,
+d63745d0-7bdd-4b79-abcf-eb2f69be45d5,comedian.mba,available,17.99,39.99,medium,low,8,namesilo,,,23/09/2026 15:26
+7e876232-f889-46a8-9d2a-b2e62e5c2a0a,masterful.mba,available,11.98,49.98,medium,low,9,namecheap,,,23/09/2026 21:35
 d37910ad-0318-48dc-83b4-21da26bb2be1,jail.mba,available,19.99,,high,low,4,name.com,,,
 bf047d7e-bfcb-4c48-9425-168227784876,trader.mba,available,,,high,low,6,,,,
 6258eee3-0550-4069-bfb0-0d23808a1cd1,entirely.mba,available,11.98,49.98,low,low,8,namecheap,,,
@@ -908,10 +908,10 @@ dd01a207-ac0d-441b-a9d5-d3a95edbba18,mahfucker.mba,available,19.99,,medium,low,9
 047f49e3-623f-4ec5-b9d9-3f0c2f1bc418,challenge.mba,available,19.99,,high,low,9,name.com,,,
 0c503847-7796-40f5-9255-6d4f140f8dd0,naturestudent.mba,available,19.99,,low,low,14,name.com,,,
 97aaeef7-26ae-4c57-b4ae-58b099c471ae,sedulous.mba,available,11.98,49.98,low,low,8,namecheap,,,07/08/2026 06:14
-ba7b5d31-9a94-47fa-9765-8e8a11bbeceb,bullish.mba,available,19.99,,high,low,7,name.com,,,
-355ee2d1-0949-4a2b-8b43-81c9866a9b8f,mysterious.mba,available,19.99,50.99,medium,low,10,name.com,,,
+ba7b5d31-9a94-47fa-9765-8e8a11bbeceb,bullish.mba,available,17.99,39.99,medium,low,7,namesilo,,,23/09/2026 10:43
+355ee2d1-0949-4a2b-8b43-81c9866a9b8f,mysterious.mba,available,17.99,39.99,low,low,10,namesilo,,,24/09/2026 03:42
 402e57a4-7903-4c90-85fd-03054385ea18,appalled.mba,available,11.98,49.98,low,low,8,namecheap,,,
-ebdb31f7-6c35-4188-916b-4d21c4d8414a,bigmoney.mba,available,19.99,,high,low,9,name.com,,,
+ebdb31f7-6c35-4188-916b-4d21c4d8414a,bigmoney.mba,available,17.99,39.99,medium,low,9,namesilo,,,23/09/2026 14:12
 9acb78fa-aec0-425f-9871-0852f7bfdf3d,mutual.mba,available,19.99,,high,low,6,name.com,,,
 3a3060ba-b204-4812-a558-735edca8648c,pricked.mba,available,19.99,,low,low,7,name.com,,,
 a8612c4c-da3a-4b88-a107-0884d6250ede,baptismal.mba,available,11.98,49.98,low,low,9,namecheap,,,08/08/2026 15:05
@@ -982,7 +982,7 @@ f2d0534a-f57c-4201-a9fc-57b7f79cd071,deal.mba,available,17.99,39.99,low,low,4,na
 515bc9cb-e77e-4b34-9120-6b750ea8f0bb,slept.mba,available,19.99,,low,low,5,name.com,,,
 f39fe98f-ce63-4ebe-8f33-6b0ccaf1aa78,windowseat.mba,available,19.99,,high,low,11,name.com,,,
 9b86a4bd-46da-4191-8309-ced077c4c12b,takingaway.mba,available,19.99,,low,low,11,name.com,,,
-4e83958b-966f-4555-bef0-959bbad471ce,entertain.mba,available,19.99,,high,low,9,name.com,,,
+4e83958b-966f-4555-bef0-959bbad471ce,entertain.mba,available,17.99,39.99,medium,low,9,namesilo,,,24/09/2026 02:50
 e88ef4a4-ce0e-483e-bbf4-7eff659f8523,contaminated.mba,available,19.99,,medium,low,12,name.com,,,
 926322bf-176e-4e51-9dd9-aad592b25ea7,flexing.mba,available,19.99,,high,low,7,name.com,,,
 b7bacd3e-a9c1-47e1-89cf-7446be50a190,everything.mba,available,19.99,,medium,medium,10,name.com,,,

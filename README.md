@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mba one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,500 domains · **Median ask:** $15.49 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/mba`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | rank.mba      | premium   | $82.50    | $82.50        | high           | low    | 4      | name.com                                                |
 | ala.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                                |
 | ccc.mba       | resell    | —         | —             | low            | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| cheap.mba     | premium   | $242      | $242          | high           | low    | 5      | namesilo                                                |
+| cheap.mba     | premium   | $242      | $242          | low            | low    | 5      | namesilo                                                |
 | ann.mba       | available | $19.99    | —             | high           | low    | 3      | name.com                                                |
 | game.mba      | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                            |
 | financial.mba | premium   | $78.54    | $78.54        | medium         | low    | 9      | namesilo                                                |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MBA One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MBA One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
